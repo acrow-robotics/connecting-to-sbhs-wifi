@@ -10,4 +10,4 @@ To do this run this command:
 echo -n YOURPASSWORD | iconv -t utf16le | openssl md4
 ```
 
-Replace YOURPASSWORD with your actual passowrd.
+Replace YOURPASSWORD with your actual password.
